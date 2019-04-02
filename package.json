@@ -1,0 +1,24 @@
+{
+  "name": "thalamo",
+  "version": "0.0.1",
+  "description": "The Swiss army knife of HTTP component integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-zaletanski/thalamo.git"
+  },
+  "keywords": [
+    "thalamo",
+    "http",
+    "integration"
+  ],
+  "author": "David Zaletanski <david.zaletanski@gmail.com> (https://dzale.net/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-zaletanski/thalamo/issues"
+  },
+  "homepage": "https://github.com/david-zaletanski/thalamo#readme"
+}
